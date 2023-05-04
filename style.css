@@ -1,0 +1,124 @@
+*{
+    margin: 0px;
+    
+}
+.heading{
+    display: flex;
+    align-items: center; 
+    align-items: flex; 
+    justify-content: center ;
+    height: 60px;
+    padding-top: 25px;
+}
+.login{
+    text-align: end;
+    width: 1350px;
+    flex-direction: row;
+    height: 30px;
+    padding-top: 40px;
+    border: none;
+}
+.style{
+    border: none;
+    padding-bottom: 20px;
+}
+.button{
+    width: 1432px;
+    color: rgb(47, 47, 164);
+    word-spacing: 20px;
+    height: 30px;
+    text-align: center;
+}
+input{
+    border-width : 0 0 0 0 ;
+    outline: none;
+    width: 100px;
+}
+.option1{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+
+    text-decoration: none;
+    list-style-type: none;
+    padding-top: 20px;
+    border-width: 0 0 0 0;
+}
+select{
+    display: flex;
+}
+.option1 li select{
+    text-decoration: none;
+}
+.section{
+    
+    width: 151.6px;
+    border-width: 0 0 0 0;
+
+}
+.navbar {
+    display: flex;
+    justify-content: space-evenly;
+    list-style-type: none;
+    margin-top: 20px;
+    size: 50px;
+    padding-bottom: 30px;
+  }
+  .navbar li a {
+    text-decoration: none;
+    position: fixed;
+  }
+.logo{
+    width: 90px;
+    height: 90px;
+    padding-left: 25px;
+}
+.companyname{
+    font-family:cursive;
+    color: white;
+    font-size: 25px;
+  }
+.button{
+    background-color: rgb(42, 42, 112);
+    border: none;
+    padding: 10px;
+    border-radius: 20px;
+    color: white;
+    width: 120px;
+    cursor: pointer; 
+    text-align: center;  
+  }
+.para{
+    font-size: 20px;
+    padding-top: 150px;
+}
+.body{
+    position: fixed;
+    width: 100%;
+}
+.main{
+    background: linear-gradient(to right,violet,rgb(158, 97, 202),rgb(100, 100, 178),rgb(146, 213, 146),yellow,orange,red);
+}
+.form{
+    text-align: end;
+    align-items: end;
+    
+}
+.formm{
+   margin-right: 115px;
+   height: 10px;
+}
+.header{
+    background: linear-gradient(to right ,#4d53c4,#d3d9e3);
+    height: 120PX;
+}
+.ancor{
+    font-family: cursive;
+    font-weight:900;
+    color:rgb(224, 110, 255);
+}
+.video{
+    padding-top: 200px;
+    width: 500px;
+    height: 20%;
+}

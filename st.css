@@ -1,0 +1,6 @@
+.conatiner{
+    display: grid | -ms-inline-grid;
+    display: -ms-inline-grid;
+   grid-column-start: 1;
+   grid-column-end: 3;
+}
